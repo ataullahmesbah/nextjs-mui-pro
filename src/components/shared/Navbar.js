@@ -13,8 +13,8 @@ import logo from '@/assets/h-logo.png'
 import { IconButton, Stack } from '@mui/material';
 import { Facebook, Instagram, LinkedIn, Twitter } from '@mui/icons-material';
 import Link from 'next/link';
-import Haeder from './Haeder';
-import Header from './Haeder';
+
+import Header from './Header.js';
 
 
 const navItems = [
